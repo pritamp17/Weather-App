@@ -1,3 +1,6 @@
+download or clone file on your machine and open terminal .. go to the file  loacation 1] npm i 2]npm strt
+and there you go..
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
